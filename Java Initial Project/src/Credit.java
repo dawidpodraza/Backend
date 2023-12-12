@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public class Credit {
+public class Credit {
+    Person borrower;
+    double moneyBorrowed;
 }
